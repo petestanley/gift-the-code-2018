@@ -24,6 +24,7 @@ Link: https://github.com/kristian-ott/gift-the-code-2018
 Description: 
 - We made a temporary app engine that we set up to access our SQL database, where data can be accessed using REST API.
 - The app engine sets up the different endpoints and returns our database's information.
+- Helpful setup Link: https://cloud.google.com/sql/docs/mysql/
 
 Examples API calls:
 
